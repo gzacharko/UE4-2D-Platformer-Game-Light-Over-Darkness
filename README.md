@@ -2,9 +2,11 @@
 Repository for my first Unreal Engine game: a 2D platformer titled "Light Over Darkness". This game was made solely by me, including all of the art, with inspiration from my brother for the game's idea itself. This was made for my Game Dev course at Rowan University. The game was coded and built using Unreal Engine 4 and its Blueprints system.
 
 ### How to Download and Play:
-- Download the respository's folders and files.
+- Click the green button that says "Code" and then click "Download zip".
 - Go into your computer's file explorer/manager.
+- Unzip the zip folder.
 - Go into the "WindowsNoEditor" folder.
 - Double-click on the "vgpfinal.exe" executable file.
+- Play!
 
 **Controls: Use your mouse to navigate the menus. Use the left and right arrow keys to move and the space bar to jump.**

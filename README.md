@@ -7,4 +7,4 @@ Repository for my first Unreal Engine game: a 2D platformer titled "Light Over D
 - Go into the "WindowsNoEditor" folder.
 - Double-click on the "vgpfinal.exe" executable file.
 
-**Controls: Use the left and right arrow keys to move and the space bar to jump.**
+**Controls: Use your mouse to navigate the menus. Use the left and right arrow keys to move and the space bar to jump.**
